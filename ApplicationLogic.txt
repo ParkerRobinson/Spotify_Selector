@@ -1,0 +1,23 @@
+This File servers the purpose of explaining the application logic Flow.
+
+1. A User Launches the APP and is presented with a GUI to Join A Lobby or Create a Lobby.
+       a) Create a Lobby is Selected -> User is prompted to name the Lobby and Password protect it as well as select an initial playlist for the lobby.
+       b) User attempts to join a lobby -> User is asked for a Lobby Name and Password as well as their Nickname
+
+2. A User has joined a Lobby either by creating one, or joining one.
+    The Lobby name is at the Top of Screen.
+    The playlist the lobby is using is below the name of the lobby.
+    A List of users in the lobby is on the side of the screen with the owner's name highlighted. 
+    A list of songs is in the middle of the view with songs at the top of the list being popped off the queue and being played first.
+        Every song has a nummber next to it represetning the number of votes for the song.  
+        A user can 'click a song' to upvote/downvote it to increase its score.
+        The queue for when songs will be played is ordered by every song's score.
+
+        
+
+
+
+
+
+
+

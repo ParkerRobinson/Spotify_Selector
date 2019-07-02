@@ -1,0 +1,6 @@
+framework module Pods_SpotifySelector {
+  umbrella header "Pods-SpotifySelector-umbrella.h"
+
+  export *
+  module * { export * }
+}

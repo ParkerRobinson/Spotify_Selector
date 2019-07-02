@@ -1,0 +1,66 @@
+Product Vision
+The latest and greatest music accessory mobile app has just been released and it is blowing other music mobile apps out of the water. SpotifySelector is a new, great
+tool for social music listeners of all types. This mobile application allows multiple users to add their Spotify music to a communal playlist, hosted in what is
+referred to as a “playlist room”. The playlist room can only be joined using a password that the creator of the room has created, so no need to worry about unwanted
+people joining your playlist room. Once a user has joined a room, they can see the list of songs added to the playlist and add their own from the songs on their
+Spotify. Users can also vote on the songs in the playlist that they want to hear more. If users downvote a song, the song moves down in the playlist queue. If the
+users upvote a song, the song moves up in the queue, and therefore, the song will be played sooner. This simple voting system is genius and something that the social
+music world has not yet had, but has needed for a long time. 
+
+This application helps to solve the common disputes over music selection at social events that so many of us have dealt with. This application can be a great tool
+for anyone hosting events that does not want to deal with the pressure of selecting songs. Managing an event is stressful as it is, so not having to worry about
+changing the song or picking the next song can be a huge relief. This application can even be a great tool in long car rides with a car full of people that want to
+listen to different music. Don’t have a pre-made playlist? No problem. Invite your friends to a room, add some songs, vote on a couple, and let SpotifySelector take
+care of the rest.
+
+
+High-Level Product Backlog 
+As a Spotify user I want to be able to login to my Spotify account so that I can make use of my already created playlist and various Spotify Features.
+As an app user I want to be able to create private ‘lobbies’ that I can password protect so that only those with a password can join.
+As a lobby owner I want to be able to kick out/ban users who have joined my lobby.
+As a lobby owner I want to be able to select one of my spotify list to create the default Queue for songs to play.
+As a member of a lobby I want to be able to upvote or downvote songs to change the order of the queue.
+As a member of a lobby I want to be able to search for Songs using the owner’s Spotify account to add new songs to the Queue.
+As a member of a lobby I want to be able to remove songs from the Queue that are excessively downvoted by the majority of the lobby.
+As a lobby owner I want to be able to override the current song being played by being able to skip it and start the next song. 
+As a lobby owner, I want to be able to revisit previous lobby listening sessions.
+As a lobby member, I want to be able to be redirected to the playlist being used within the Spotify app.
+As a lobby owner, I want to be able to view all the people in my lobby.
+As a lobby owner, I can allow another user in the lobby to co-host/co-own the lobby.
+As a lobby co-host, I want to be able to have the same permissions as the original lobby owner.
+As the lobby owner/co-owner, I want to be able to remove songs from the queue at any time.
+As a Spotify user, I want to be able to see what my friends and family members are listening to.
+As a member of a lobby, I want to be able to save songs from party lobby queue
+As a member of a lobby, I want to be able to filter the queue to display songs by queued by a specific member.
+As a Spotify user, I want to be able to use my lobby playlist to airplay over 3rd-party devices like alexa, google home, etc.
+As a owner of a party lobby, I want to be able to adjust the volume level for the music output.
+As a user of a party lobby, I would not want the music to be interrupted if I received a phone call. (Music only interrupted for phone calls on the party lobby owner’s phone).
+
+Product Roadmap
+Sprint 1 (Login to Spotify, Lobby Creation, Set initial playlist):
+As a Spotify user I want to be able to login to my Spotify account so that I can make use of my already created playlist and various Spotify Features.
+As an app user I want to be able to create private ‘lobbies’ that I can password protect so that only those with a password can join.
+As a lobby owner, I want to be able to view all the people in my lobby.
+As a lobby owner I want to be able to kick out/ban users who have joined my lobby.
+As a lobby owner I want to be able to select one of my spotify list to create the default Queue for songs to play.
+
+Sprint 2 (Lobby owner rights, member rights, upvote/downvote, history):
+As a lobby owner I want to be able to override the current song being played by being able to skip it and start the next song. 
+As a owner of a party lobby, I want to be able to adjust the volume level for the music output.
+As the lobby owner/co-owner, I want to be able to remove songs from the queue at any time.
+As a member of a lobby I want to be able to upvote or downvote songs to change the order of the queue.
+As a member of a lobby I want to the excessively downvoted songs in the queue to be removed
+As a lobby member, I want to be able to be redirected to the playlist being used within the Spotify app.
+As a lobby owner, I want to be able to revisit previous lobby listening sessions.
+
+Sprint 3 (member add songs, co-hosts)
+As a member of a lobby I want to be able to search for Songs using the owner’s Spotify account to add new songs to the Queue.
+As a member of a lobby, I want to be able to filter the queue to display songs by queued by a specific member.
+As a lobby owner, I can allow another user in the lobby to co-host/co-own the lobby.
+As a lobby co-host, I want to be able to have the same permissions as the original lobby owner.
+As a Spotify user, I want to be able to use my lobby playlist to airplay over 3rd-party devices like alexa, google home, etc.
+
+Sprint 4 (friends and family, members save songs, pause):
+As a Spotify user, I want to be able to see what my friends and family members are listening to.
+As a member of a lobby, I want to be able to save songs from party lobby queue
+As a user of a party lobby, I would not want the music to be interrupted if I received a phone call. (Music only interrupted for phone calls on the party lobby owner’s phone).
